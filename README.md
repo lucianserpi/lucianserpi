@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucian Serpi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning docker
 - 💞️ I’m looking to collaborate on PHP projects
 - 📫 How to reach me lucian.serpi@gmail.com
 
