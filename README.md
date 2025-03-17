@@ -1,7 +1,8 @@
+sure, here is something about me...
 - 👋 Hi, I’m Lucian Serpi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning docker
-- 💞️ I’m looking to collaborate on PHP projects
+- 🌱 I’m currently learning docker in bash
+- 💞️ I’m looking to collaborate on old PHP projects
 - 📫 How to reach me lucian.serpi@gmail.com
 
 <!---
